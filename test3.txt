@@ -1,3 +1,1 @@
-5번째 테스트;
-add login;
-add login2;
+pg_git_clone에서 수정
